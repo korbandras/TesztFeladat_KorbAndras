@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TesztFeladat_KorbAndras:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TesztFeladat_KorbAndras_jar</output-path>
+    <root id="archive" name="TesztFeladat_KorbAndras.jar">
+      <element id="module-output" name="TesztFeladat_KorbAndras" />
+    </root>
+  </artifact>
+</component>
